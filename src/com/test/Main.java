@@ -7,7 +7,7 @@ public class Main {
         Student stu = new Student();
         stu.setAge(18);
         stu.setName("java");
-        stu.setNumber(32);
+        stu.setNumber(33);
         stu.message();
         stu.print();
         System.out.println(stu.i);
